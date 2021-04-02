@@ -197,7 +197,7 @@ nav li, a{
 }
 
 .icon-arrow:hover{
-    color
+    color: white;
 }
 
 /* Testimonials */
@@ -457,10 +457,6 @@ ion-icon{
         margin-top: -20rem;
         padding-top: 12rem;
         margin-bottom: 0;
-    }
-
-    .footer-info-container{
-        /* margin-top: 10rem */
     }
 
 }
