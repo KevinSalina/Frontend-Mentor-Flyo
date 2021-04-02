@@ -1,4 +1,4 @@
-# Frontend Mentor Fourcard Feature
+# Frontend Fylo Landing Page Feature
 
 Project to create a **Fylo Landing Page** with only vanilla HTML, CSS.
 First attempt at creating a full landing page from scratch.
